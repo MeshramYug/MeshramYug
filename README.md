@@ -1,8 +1,15 @@
 <div align="center">
 
-  # Hi there, I'm **Yug Meshram** 👋
-  ### 🚀 AI/ML Engineer & Autonomous Systems Developer
+  # Hi there, I'm **Yug Meshram** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
+  <!-- Animated Typing Subtitle -->
+  <a href="https://github.com/MeshramYug">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Autonomous+Systems+Developer;Computer+Vision+%26+Speech+AI;Passionate+Problem+Solver" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- Social Badges -->
   <p align="center">
     <a href="https://www.linkedin.com/in/yug-meshram-4a7465313/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://reddit.com/user/YugMeshram01"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit"/></a>
@@ -11,14 +18,33 @@
 
 </div>
 
----
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
-### 💫 About Me
-- 🔭 Working on **Voice-Controlled Autonomous Systems**, **Computer Vision**, and **Speech AI**.
-- 🧠 Passionate about **Machine Learning**, **Neural Networks**, and **LLM Integrations (Groq LPU / Whisper / LLaMA)**.
-- ⚡ Building high-performance software applications in **Python**, **C++**, **Java**, and **JavaScript**.
+<br/>
 
----
+<!-- About Me Section with Coding GIF -->
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>💫 About Me</h3>
+      <ul>
+        <li>🔭 Working on <b>Voice-Controlled Autonomous Systems</b>, <b>Computer Vision</b>, and <b>Speech AI</b>.</li>
+        <li>🧠 Passionate about <b>Machine Learning</b>, <b>Neural Networks</b>, and <b>LLM Integrations (Groq LPU / Whisper / LLaMA)</b>.</li>
+        <li>⚡ Building high-performance software applications in <b>Python</b>, <b>C++</b>, <b>Java</b>, and <b>JavaScript</b>.</li>
+        <li>🎯 Goal: Creating intelligent autonomous agents that bridge hardware and natural speech.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-99e8-ce80e836394a.gif" width="100%" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ### 🛠️ Tech Stack & Tools
 
@@ -42,7 +68,10 @@
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
 
----
+<br/>
+
+<!-- Animated Line Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ### 📊 GitHub Analytics
 
