@@ -11,11 +11,11 @@
     Hi, I'm <span style="color: #0077B5;">Yug Meshram</span>
   </h1>
 
-  <h3 align="center">Artificial Intelligence Engineer | Machine Learning Enthusiast | Computer Vision Developer</h3>
+  <h3 align="center">AI & ML Enthusiast | Continuous Learner | Autonomous Systems Explorer</h3>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/MeshramYug">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Computer+Vision+Developer;Autonomous+Systems+Developer;Always+Learning+Always+Building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=AI+%26+ML+Learner;AI-Assisted+Developer;Computer+Vision+Explorer;Autonomous+Systems+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -40,13 +40,14 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>💫 About Me</h2>
+      <h2>🌱 About Me</h2>
       <ul>
-        <li>🎓 <b>Education</b>: B.Tech Student specializing in <b>Artificial Intelligence & Machine Learning</b>.</li>
-        <li>🚗 <b>Voice-Controlled Self-Driving Car</b>: Building real-time autonomous systems using OpenAI Whisper, Deep Learning, and Computer Vision.</li>
-        <li>🌿 <b>Smart Agriculture AI</b>: Developing deep learning models (PyTorch CNNs) for plant disease diagnosis and leaf analysis.</li>
-        <li>💡 <b>Core Interests</b>: Large Language Models (LLMs), Edge AI, Speech Recognition, and Multimodal Autonomous Technologies.</li>
-        <li>🚀 <b>Motto</b>: <i>Always learning, always building innovative AI solutions.</i></li>
+        <li>🎓 <b>Education & Growth</b>: B.Tech Student in <b>Active Learning Phase</b> specializing in <b>Artificial Intelligence & Machine Learning</b>.</li>
+        <li>🤖 <b>AI-Assisted Coding</b>: I actively leverage <b>AI tools & Generative AI co-pilots</b> to design, prototype, and accelerate software development.</li>
+        <li>🚗 <b>Voice-Controlled Self-Driving Car</b>: Building real-time autonomous vehicle control pipelines using OpenAI Whisper, Deep Learning, and Udacity Simulator.</li>
+        <li>🌿 <b>Smart Agriculture AI</b>: Developing leaf disease diagnostic models using PyTorch CNNs & web interfaces.</li>
+        <li>💡 <b>Core Interests</b>: LLM Applications, Prompt Engineering, Edge AI, Computer Vision, and AI-Powered Workflows.</li>
+        <li>🚀 <b>Motto</b>: <i>Continuous learning and building smart solutions by pairing human curiosity with AI capabilities.</i></li>
       </ul>
     </td>
     <td width="42%" align="center">
@@ -67,7 +68,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 <a href="https://github.com/MeshramYug/self-driving-car">Voice-Controlled Self-Driving Car</a></h3>
-      <p>Real-time autonomous vehicle simulation using OpenAI Whisper speech recognition, PyTorch/TensorFlow deep learning, and Udacity simulator integration.</p>
+      <p>Autonomous vehicle simulation integrating speech recognition (OpenAI Whisper / Groq LPU), PyTorch deep learning models, and Udacity simulator controls.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -77,7 +78,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🌿 <a href="https://github.com/MeshramYug/Plant_Disease_Detection">Plant Disease Detection AI</a></h3>
-      <p>AI-powered leaf disease diagnostic web application built with Flask, PyTorch CNN models, Bootstrap 5 glassmorphism UI, and treatment recommendations.</p>
+      <p>AI-powered leaf disease diagnosis app built with PyTorch CNN models, Flask backend, modern UI, and smart treatment suggestions.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -93,40 +94,39 @@
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 💻 Tech Stack
+## 🛠️ Stack & Tools
 
-### 👨‍💻 Programming Languages
+### 🧠 AI Pair Programming & Coding Assistants
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E44AD?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 </p>
 
 ### 🤖 AI, Machine Learning & Computer Vision
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### 🌐 Web Development
+### 💻 Core Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🛠️ Dev Tools & Environments
+### 🛠️ Environment & Infrastructure
 <p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 <br/>
@@ -138,14 +138,13 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>📚 Currently Learning & Exploring</h2>
+      <h2>📚 Active Learning Roadmap</h2>
       <ul>
-        <li>🤖 <b>Large Language Models (LLMs)</b> & Prompt Engineering</li>
-        <li>🎤 <b>Speech Recognition</b> with OpenAI Whisper & Voice-Control Pipelines</li>
-        <li>🚗 <b>Autonomous Driving Systems</b> & Vehicle Controls</li>
-        <li>👁️ <b>Computer Vision & Object Detection</b> (YOLOv8, PyTorch Vision)</li>
-        <li>🧠 <b>Deep Learning</b> Architectures & Model Optimization</li>
-        <li>🌐 Modern <b>Full-Stack AI Web Apps</b></li>
+        <li>🧠 <b>Core ML & DL Concepts</b>: Strengthening mathematical & architectural foundations.</li>
+        <li>🤖 <b>AI-Powered Software Development</b>: Mastering prompt engineering & AI coding workflows.</li>
+        <li>🎤 <b>Speech AI Pipelines</b>: Fine-tuning Whisper & voice intent models.</li>
+        <li>🚗 <b>Autonomous Driving Systems</b>: Exploring lane control algorithms & sensor data.</li>
+        <li>👁️ <b>Computer Vision</b>: Object detection & real-time video processing (YOLOv8, OpenCV).</li>
       </ul>
     </td>
     <td width="42%" align="center">
@@ -212,6 +211,6 @@
 
 ### ⭐ Thanks for Visiting!
 
-*"Passionate about building intelligent AI systems that solve real-world problems through Machine Learning, Computer Vision, and Autonomous Technologies."*
+*"Continuously learning, experimenting, and leveraging AI tools to build intelligent autonomous and machine learning systems."*
 
 </div>
