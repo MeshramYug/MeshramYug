@@ -5,6 +5,11 @@
 
   <br/><br/>
 
+  <!-- Greetings Animated Banner GIF -->
+  <img src="assets/greetings.gif" width="100%" max-width="650px" style="border-radius: 12px;" alt="Greetings GIF"/>
+
+  <br/><br/>
+
   <!-- Header Title -->
   <h1>
     <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="38px" alt="Waving Hand">
