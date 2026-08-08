@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Top Animated Cyber/AI Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=210&section=header&text=Yug%20Meshram&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Continuous%20Learner%20%7C%20Autonomous%20Systems%20Explorer&descSize=16&descAlignY=62" width="100%"/>
+  <!-- Top Animated Cyber/AI Banner (Local Asset) -->
+  <img src="assets/github%20Gif.gif" width="100%" style="object-fit: cover; border-radius: 12px;" alt="Cyber AI Banner"/>
 
   <br/><br/>
 
-  <!-- Greetings Animated Banner GIF -->
+  <!-- Greetings GIF (Local Asset) -->
   <img src="assets/greetings.gif" width="100%" max-width="650px" style="border-radius: 12px;" alt="Greetings GIF"/>
 
   <br/><br/>
@@ -36,11 +36,12 @@
 
 </div>
 
-<hr/>
+<!-- Line Divider Asset (Local Asset) -->
+<img src="assets/4.gif" width="100%" alt="Divider"/>
 
 <br/>
 
-<!-- About Me Section with Custom GIF -->
+<!-- About Me Section with Local GIF (2.gif) -->
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -55,15 +56,16 @@
       </ul>
     </td>
     <td width="42%" align="center">
-      <!-- Custom Anime Coding GIF -->
-      <img src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif" width="100%" style="border-radius: 14px;" alt="Anime Coding GIF"/>
+      <!-- Local Asset 2.gif -->
+      <img src="assets/2.gif" width="100%" style="border-radius: 14px;" alt="About Me GIF"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<hr/>
+<!-- Line Divider Asset -->
+<img src="assets/4.gif" width="100%" alt="Divider"/>
 
 ## 🚀 Featured Projects
 
@@ -94,7 +96,8 @@
 
 <br/>
 
-<hr/>
+<!-- Line Divider Asset -->
+<img src="assets/4.gif" width="100%" alt="Divider"/>
 
 ## 🛠️ Stack & Tools
 
@@ -142,9 +145,10 @@
 
 <br/>
 
-<hr/>
+<!-- Line Divider Asset -->
+<img src="assets/4.gif" width="100%" alt="Divider"/>
 
-<!-- Currently Learning Section with Pinterest GIF -->
+<!-- Active Learning Section with Local GIF (5.gif) -->
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -158,15 +162,16 @@
       </ul>
     </td>
     <td width="42%" align="center">
-      <!-- Pinterest Coding GIF -->
-      <img src="https://i.pinimg.com/originals/82/35/b0/8235b05de0093d29e29287100009ad46.gif" width="100%" style="border-radius: 14px;" alt="Coding GIF"/>
+      <!-- Local Asset 5.gif -->
+      <img src="assets/5.gif" width="100%" style="border-radius: 14px;" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<hr/>
+<!-- Line Divider Asset -->
+<img src="assets/4.gif" width="100%" alt="Divider"/>
 
 ## 📊 GitHub Analytics
 
