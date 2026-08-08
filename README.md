@@ -1,12 +1,7 @@
 <div align="center">
 
-  <!-- Top Animated Cyber/AI Banner (Local Asset) -->
-  <img src="assets/github%20Gif.gif" width="100%" style="object-fit: cover; border-radius: 12px;" alt="Cyber AI Banner"/>
-
-  <br/><br/>
-
-  <!-- Greetings GIF (Local Asset) -->
-  <img src="assets/greetings.gif" width="100%" max-width="650px" style="border-radius: 12px;" alt="Greetings GIF"/>
+  <!-- Greetings Banner GIF (800x214) -->
+  <img src="assets/greetings.gif" width="100%" max-width="800px" style="border-radius: 12px;" alt="Greetings Banner"/>
 
   <br/><br/>
 
@@ -36,15 +31,14 @@
 
 </div>
 
-<!-- Line Divider Asset (Local Asset) -->
-<img src="assets/4.gif" width="100%" alt="Divider"/>
+<hr/>
 
 <br/>
 
-<!-- About Me Section with Local GIF (2.gif) -->
+<!-- About Me Section with Face GIF (github Gif.gif) -->
 <table>
   <tr>
-    <td width="58%" valign="top">
+    <td width="60%" valign="top">
       <h2>🌱 About Me</h2>
       <ul>
         <li>🎓 <b>Education & Growth</b>: B.Tech Student in <b>Active Learning Phase</b> specializing in <b>Artificial Intelligence & Machine Learning</b>.</li>
@@ -55,17 +49,16 @@
         <li>🚀 <b>Motto</b>: <i>Continuous learning and building smart solutions by pairing human curiosity with AI capabilities.</i></li>
       </ul>
     </td>
-    <td width="42%" align="center">
-      <!-- Local Asset 2.gif -->
-      <img src="assets/2.gif" width="100%" style="border-radius: 14px;" alt="About Me GIF"/>
+    <td width="40%" align="center" valign="middle">
+      <!-- Face GIF Asset -->
+      <img src="assets/github%20Gif.gif" width="100%" style="border-radius: 14px; max-width: 280px;" alt="Face GIF"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Line Divider Asset -->
-<img src="assets/4.gif" width="100%" alt="Divider"/>
+<hr/>
 
 ## 🚀 Featured Projects
 
@@ -96,8 +89,7 @@
 
 <br/>
 
-<!-- Line Divider Asset -->
-<img src="assets/4.gif" width="100%" alt="Divider"/>
+<hr/>
 
 ## 🛠️ Stack & Tools
 
@@ -145,10 +137,9 @@
 
 <br/>
 
-<!-- Line Divider Asset -->
-<img src="assets/4.gif" width="100%" alt="Divider"/>
+<hr/>
 
-<!-- Active Learning Section with Local GIF (5.gif) -->
+<!-- Active Learning Section with 2.gif -->
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -161,17 +152,16 @@
         <li>👁️ <b>Computer Vision</b>: Object detection & real-time video processing (YOLOv8, OpenCV).</li>
       </ul>
     </td>
-    <td width="42%" align="center">
-      <!-- Local Asset 5.gif -->
-      <img src="assets/5.gif" width="100%" style="border-radius: 14px;" alt="Coding GIF"/>
+    <td width="42%" align="center" valign="middle">
+      <!-- Coding Animation Asset (2.gif) -->
+      <img src="assets/2.gif" width="100%" style="border-radius: 14px;" alt="Coding GIF"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- Line Divider Asset -->
-<img src="assets/4.gif" width="100%" alt="Divider"/>
+<hr/>
 
 ## 📊 GitHub Analytics
 
