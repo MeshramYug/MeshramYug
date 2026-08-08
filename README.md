@@ -1,21 +1,24 @@
 <div align="center">
 
-  <!-- Top Animated Cyber/AI Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-99e8-ce80e836394a.gif" width="100%" height="210px" style="object-fit: cover; border-radius: 12px;" alt="AI Banner"/>
+  <!-- Top Dynamic Capsule Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:00D4FF,100:00599C&height=210&section=header&text=YUG%20MESHRAM&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Explorer%20|%20Autonomous%20Systems%20|%20Continuous%20Learner&descSize=18&descAlignY=62" width="100%"/>
+
+  <!-- Futuristic Cyber AI Header Banner GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-7055-4305-99e8-ce80e836394a.gif" width="100%" height="180px" style="object-fit: cover; border-radius: 12px;" alt="Cyber AI Banner"/>
 
   <br/><br/>
 
-  <!-- Header Title -->
+  <!-- Header Title with Animated Wave GIF -->
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px">
-    Hi, I'm <span style="color: #0077B5;">Yug Meshram</span>
+    <img src="https://raw.githubusercontent.com/MartinLaxe/MartinLaxe/main/assets/HandWave.gif" width="38px" alt="Waving Hand"/>
+    Hi, I'm <span style="color: #00D4FF;">Yug Meshram</span>
   </h1>
 
-  <h3 align="center">AI & ML Enthusiast | Continuous Learner | Autonomous Systems Explorer</h3>
+  <h3 align="center">🤖 AI & ML Enthusiast | 🧠 Autonomous Systems Explorer | 🚀 Continuous Learner</h3>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/MeshramYug">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=650&lines=AI+%26+ML+Learner;AI-Assisted+Developer;Computer+Vision+Explorer;Autonomous+Systems+Enthusiast;Always+Learning+Always+Building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Explorer;%F0%9F%A7%A0+Autonomous+Systems+%26+Deep+Learning;%F0%9F%9A%97+Voice-Controlled+Self-Driving+Car;%F0%9F%8D%BF+Smart+Agriculture+AI+Solutions;%F0%9F%9A%80+Always+Learning+Always+Building" alt="Typing SVG"/>
   </a>
 
   <br/><br/>
@@ -31,36 +34,64 @@
 
 </div>
 
+<!-- Animated Cyber Neon Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<br/>
+
+<!-- Interactive Trophies Section -->
+<div align="center">
+  <h2>🏆 GitHub Achievements & Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=MeshramYug&theme=tokyonight&no-bg=true&column=6&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <br/>
 
-<!-- About Me Section with Custom GIF -->
+<!-- About Me Section with High-Res Cyberpunk Coding GIF -->
 <table>
   <tr>
     <td width="58%" valign="top">
       <h2>🌱 About Me</h2>
       <ul>
         <li>🎓 <b>Education & Growth</b>: B.Tech Student in <b>Active Learning Phase</b> specializing in <b>Artificial Intelligence & Machine Learning</b>.</li>
-        <li>🤖 <b>AI-Assisted Coding</b>: I actively leverage <b>AI tools & Generative AI co-pilots</b> to design, prototype, and accelerate software development.</li>
+        <li>🤖 <b>AI-Assisted Development</b>: Leveraging <b>AI tools & Generative AI copilots</b> to architect, prototype, and accelerate intelligent software solutions.</li>
         <li>🚗 <b>Voice-Controlled Self-Driving Car</b>: Building real-time autonomous vehicle control pipelines using OpenAI Whisper, Deep Learning, and Udacity Simulator.</li>
-        <li>🌿 <b>Smart Agriculture AI</b>: Developing leaf disease diagnostic models using PyTorch CNNs & web interfaces.</li>
-        <li>💡 <b>Core Interests</b>: LLM Applications, Prompt Engineering, Edge AI, Computer Vision, and AI-Powered Workflows.</li>
+        <li>🌿 <b>Smart Agriculture AI</b>: Developing leaf disease diagnostic models using PyTorch CNNs & responsive web interfaces.</li>
+        <li>💡 <b>Core Focus</b>: LLM Applications, Prompt Engineering, Edge AI, Computer Vision, and Autonomous AI Workflows.</li>
         <li>🚀 <b>Motto</b>: <i>Continuous learning and building smart solutions by pairing human curiosity with AI capabilities.</i></li>
       </ul>
     </td>
     <td width="42%" align="center">
-      <!-- Custom Anime Coding GIF -->
-      <img src="https://i.pinimg.com/originals/db/03/96/db039626bfa2ecc53f0f6e7f335aef4c.gif" width="100%" style="border-radius: 14px;" alt="Anime Coding GIF"/>
+      <!-- High-Definition Cyberpunk Coding GIF -->
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anor/Tarikul-Islam-Anor/main/assets/Coding.gif" width="100%" style="border-radius: 14px;" alt="Cyberpunk Developer Coding GIF"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- Interactive Dropdown Details -->
+<details>
+  <summary><b>⚡ Quick Highlights & Developer Philosophy (Click to Expand)</b></summary>
+  <br/>
+  <ul>
+    <li>🔥 <b>Passionate about</b>: End-to-end Machine Learning pipelines, Real-time Computer Vision, and Speech-to-Action agents.</li>
+    <li>⚙️ <b>Workflow</b>: AI-First prototyping combining Python, PyTorch, OpenAI APIs, and modern developer tools.</li>
+    <li>🌐 <b>Open to</b>: Collaborations on Open Source AI/ML projects, Autonomous Robotics, and Computer Vision models.</li>
+  </ul>
+</details>
+
+<br/>
+
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
+
+<br/>
 
 ## 🚀 Featured Projects
 
@@ -94,7 +125,18 @@
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
+<br/>
+
 ## 🛠️ Stack & Tools
+
+<!-- Interactive Animated Skill Icons Grid -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,js,opencv,vscode,git,github,flask,bootstrap,linux" alt="Interactive Skill Icons"/>
+  </a>
+</p>
+
+<br/>
 
 ### 🧠 AI Pair Programming & Coding Assistants
 <p>
@@ -134,7 +176,9 @@
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<!-- Currently Learning Section with Pinterest GIF -->
+<br/>
+
+<!-- Active Learning Section with Dynamic Neural Network / AI Learning GIF -->
 <table>
   <tr>
     <td width="58%" valign="top">
@@ -148,22 +192,41 @@
       </ul>
     </td>
     <td width="42%" align="center">
-      <!-- Pinterest Coding GIF -->
-      <img src="https://i.pinimg.com/originals/82/35/b0/8235b05de0093d29e29287100009ad46.gif" width="100%" style="border-radius: 14px;" alt="Coding GIF"/>
+      <!-- Neural Network / AI Learning GIF -->
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" style="border-radius: 14px;" alt="AI Learning Neural Net GIF"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
+<!-- Interactive Dropdown Details for Learning -->
+<details>
+  <summary><b>🎯 Current Learning & Skill Expansion Focus (Click to Expand)</b></summary>
+  <br/>
+  <ul>
+    <li>📘 <b>Books & Papers</b>: Studying foundational papers on Transformer architectures, YOLOv8, and CNN feature extraction.</li>
+    <li>🧪 <b>Hands-on Experiments</b>: Implementing lightweight CNNs for real-time edge processing and voice command parsers.</li>
+  </ul>
+</details>
+
+<br/>
+
 <!-- Animated Line Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664f-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 📊 GitHub Analytics
+<br/>
+
+## 📊 GitHub Analytics & Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.shion.dev/api?username=MeshramYug&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img width="48%" src="https://streak-stats.demolab.com?user=MeshramYug&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<!-- GitHub Commit Activity Graph -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MeshramYug&theme=tokyo-night&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
@@ -173,7 +236,7 @@
 
 <br/>
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake Animation" width="100%"/>
